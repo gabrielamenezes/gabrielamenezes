@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriela Menezes</h1>
 <h3 align="center">A passionate frontend developer from Belo Horizonte, MG 🇧🇷</h3>
-<h4 align="center">Majoring</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielamenezes" alt="gabrielamenezes" /> </p>
 
