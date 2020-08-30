@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielamenezes" alt="gabrielamenezes" /> </p>
 
-- 🔭 I’m currently working on **my portfolio** :construction:
-
-- 🌱 I’m currently learning **JavaScript, PHP & C#**
+- 🌱 I’m currently learning **JavaScript, PHP
 
 - :mortar_board: Majoring in **Information Systems**
 
