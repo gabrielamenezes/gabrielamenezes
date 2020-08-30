@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielamenezes" alt="gabrielamenezes" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, PHP
+- 🌱 I’m currently learning **JavaScript, PHP**
 
 - :mortar_board: Majoring in **Information Systems**
 
