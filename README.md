@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriela Menezes</h1>
 <h3 align="center">A passionate frontend developer from Belo Horizonte, MG 🇧🇷</h3>
-<h4 align="center">Studying to be a FullStack Dev :star2:</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielamenezes" alt="gabrielamenezes" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, PHP**
+- 🌱 I’m currently learning **JavaScript**
 
 - :mortar_board: Majoring in **Information Systems**
 
