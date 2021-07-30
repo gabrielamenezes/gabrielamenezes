@@ -1,6 +1,7 @@
 ## Hii! My name is Gabriela Menezes
-* :pushpin: Belo Horizonte, Minas Gerais - Brazil :brazil:
+* :round_pushpin: Belo Horizonte, Minas Gerais - Brazil :brazil:
 * :computer: Front-End Developer
+* :mortar_board:	Information System Student 
  <div>
   <a href="https://github.com/gabrielamenezes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielamenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
