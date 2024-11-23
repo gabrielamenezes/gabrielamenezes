@@ -1,5 +1,4 @@
 * :round_pushpin: Belo Horizonte, Minas Gerais - Brasil
-* :mortar_board:	Estudante de Sistemas de Informação
  <div>
 
   <div style="display: inline_block"><br>
